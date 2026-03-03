@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ATM/ATM.iml" filepath="$PROJECT_DIR$/ATM/ATM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AirLineManagement/AirLineManagement.iml" filepath="$PROJECT_DIR$/AirLineManagement/AirLineManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuilderDesign/BuilderDesign.iml" filepath="$PROJECT_DIR$/BuilderDesign/BuilderDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CORDesign/CORDesign.iml" filepath="$PROJECT_DIR$/CORDesign/CORDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calender/Calender.iml" filepath="$PROJECT_DIR$/Calender/Calender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CarRentalSystem/CarRentalSystem.iml" filepath="$PROJECT_DIR$/CarRentalSystem/CarRentalSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecoratorDesign/DecoratorDesign.iml" filepath="$PROJECT_DIR$/DecoratorDesign/DecoratorDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ElevatorDesign/ElevatorDesign.iml" filepath="$PROJECT_DIR$/ElevatorDesign/ElevatorDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileSystem/FileSystem.iml" filepath="$PROJECT_DIR$/FileSystem/FileSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FoodDelivery/FoodDelivery.iml" filepath="$PROJECT_DIR$/FoodDelivery/FoodDelivery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JobScheduler/JobScheduler.iml" filepath="$PROJECT_DIR$/JobScheduler/JobScheduler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LLD.iml" filepath="$PROJECT_DIR$/.idea/LLD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LRUCache/LRUCache.iml" filepath="$PROJECT_DIR$/LRUCache/LRUCache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoggingFramework/LoggingFramework.iml" filepath="$PROJECT_DIR$/LoggingFramework/LoggingFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MessageQueue/MessageQueue.iml" filepath="$PROJECT_DIR$/MessageQueue/MessageQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreading/MultiThreading.iml" filepath="$PROJECT_DIR$/MultiThreading/MultiThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MusicStreamingService/MusicStreamingService.iml" filepath="$PROJECT_DIR$/MusicStreamingService/MusicStreamingService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParkingLot/ParkingLot.iml" filepath="$PROJECT_DIR$/ParkingLot/ParkingLot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PubSub/PubSub.iml" filepath="$PROJECT_DIR$/PubSub/PubSub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RateLimiterDesign/RateLimiterDesign.iml" filepath="$PROJECT_DIR$/RateLimiterDesign/RateLimiterDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SnakeAndLadder/SnakeAndLadder.iml" filepath="$PROJECT_DIR$/SnakeAndLadder/SnakeAndLadder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SocialMedia/SocialMedia.iml" filepath="$PROJECT_DIR$/SocialMedia/SocialMedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Splitwise/Splitwise.iml" filepath="$PROJECT_DIR$/Splitwise/Splitwise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatePattern/StatePattern.iml" filepath="$PROJECT_DIR$/StatePattern/StatePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sudoku/Sudoku.iml" filepath="$PROJECT_DIR$/Sudoku/Sudoku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextEditor/TextEditor.iml" filepath="$PROJECT_DIR$/TextEditor/TextEditor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/URLShortner/URLShortner.iml" filepath="$PROJECT_DIR$/URLShortner/URLShortner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VendingMachine/VendingMachine.iml" filepath="$PROJECT_DIR$/VendingMachine/VendingMachine.iml" />
+    </modules>
+  </component>
+</project>
