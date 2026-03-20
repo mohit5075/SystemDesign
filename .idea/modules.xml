@@ -9,10 +9,12 @@
       <module fileurl="file://$PROJECT_DIR$/Calender/Calender.iml" filepath="$PROJECT_DIR$/Calender/Calender.iml" />
       <module fileurl="file://$PROJECT_DIR$/CarRentalSystem/CarRentalSystem.iml" filepath="$PROJECT_DIR$/CarRentalSystem/CarRentalSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/DecoratorDesign/DecoratorDesign.iml" filepath="$PROJECT_DIR$/DecoratorDesign/DecoratorDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoctorAppointment/DoctorAppointment.iml" filepath="$PROJECT_DIR$/DoctorAppointment/DoctorAppointment.iml" />
       <module fileurl="file://$PROJECT_DIR$/ElevatorDesign/ElevatorDesign.iml" filepath="$PROJECT_DIR$/ElevatorDesign/ElevatorDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileSystem/FileSystem.iml" filepath="$PROJECT_DIR$/FileSystem/FileSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/FoodDelivery/FoodDelivery.iml" filepath="$PROJECT_DIR$/FoodDelivery/FoodDelivery.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InventoryManagement/InventoryManagement.iml" filepath="$PROJECT_DIR$/InventoryManagement/InventoryManagement.iml" />
       <module fileurl="file://$PROJECT_DIR$/JobScheduler/JobScheduler.iml" filepath="$PROJECT_DIR$/JobScheduler/JobScheduler.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LLD.iml" filepath="$PROJECT_DIR$/.idea/LLD.iml" />
       <module fileurl="file://$PROJECT_DIR$/LRUCache/LRUCache.iml" filepath="$PROJECT_DIR$/LRUCache/LRUCache.iml" />
