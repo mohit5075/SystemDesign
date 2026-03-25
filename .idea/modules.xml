@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/DecoratorDesign/DecoratorDesign.iml" filepath="$PROJECT_DIR$/DecoratorDesign/DecoratorDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/DoctorAppointment/DoctorAppointment.iml" filepath="$PROJECT_DIR$/DoctorAppointment/DoctorAppointment.iml" />
       <module fileurl="file://$PROJECT_DIR$/ElevatorDesign/ElevatorDesign.iml" filepath="$PROJECT_DIR$/ElevatorDesign/ElevatorDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileCollection/FileCollection.iml" filepath="$PROJECT_DIR$/FileCollection/FileCollection.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileSystem/FileSystem.iml" filepath="$PROJECT_DIR$/FileSystem/FileSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/FoodDelivery/FoodDelivery.iml" filepath="$PROJECT_DIR$/FoodDelivery/FoodDelivery.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />
@@ -32,6 +33,7 @@
       <module fileurl="file://$PROJECT_DIR$/StatePattern/StatePattern.iml" filepath="$PROJECT_DIR$/StatePattern/StatePattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sudoku/Sudoku.iml" filepath="$PROJECT_DIR$/Sudoku/Sudoku.iml" />
       <module fileurl="file://$PROJECT_DIR$/TextEditor/TextEditor.iml" filepath="$PROJECT_DIR$/TextEditor/TextEditor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrafficSignal/TrafficSignal.iml" filepath="$PROJECT_DIR$/TrafficSignal/TrafficSignal.iml" />
       <module fileurl="file://$PROJECT_DIR$/URLShortner/URLShortner.iml" filepath="$PROJECT_DIR$/URLShortner/URLShortner.iml" />
       <module fileurl="file://$PROJECT_DIR$/VendingMachine/VendingMachine.iml" filepath="$PROJECT_DIR$/VendingMachine/VendingMachine.iml" />
     </modules>
