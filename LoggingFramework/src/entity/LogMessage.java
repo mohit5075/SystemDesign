@@ -7,11 +7,13 @@ import java.time.LocalDateTime;
 public class LogMessage {
     private String message;
     private LogLevel logLevel;
+    private String threadName;
     private LocalDateTime timestamp;
     public LogMessage(String message, LogLevel logLevel){
         this.logLevel = logLevel;
         this.message = message;
         this.timestamp = LocalDateTime.now();
+        this.threadName = Thread.currentThread().getName();
     }
 
     public String getMessage() {
@@ -36,5 +38,9 @@ public class LogMessage {
 
     public void setTimestamp(LocalDateTime timestamp) {
         this.timestamp = timestamp;
+    }
+
+    public String getThreadName() {
+        return threadName;
     }
 }

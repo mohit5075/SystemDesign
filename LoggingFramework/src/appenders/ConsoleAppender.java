@@ -12,9 +12,4 @@ public class ConsoleAppender extends Appender{
         Object message = formatter.format(logMessage);
         System.out.println(message);
     }
-
-    @Override
-    public void setFormatter(Formatter formatter) {
-        this.formatter = formatter;
-    }
 }

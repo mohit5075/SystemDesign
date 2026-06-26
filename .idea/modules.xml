@@ -8,31 +8,43 @@
       <module fileurl="file://$PROJECT_DIR$/CORDesign/CORDesign.iml" filepath="$PROJECT_DIR$/CORDesign/CORDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/Calender/Calender.iml" filepath="$PROJECT_DIR$/Calender/Calender.iml" />
       <module fileurl="file://$PROJECT_DIR$/CarRentalSystem/CarRentalSystem.iml" filepath="$PROJECT_DIR$/CarRentalSystem/CarRentalSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomReadWriteLock/CustomReadWriteLock.iml" filepath="$PROJECT_DIR$/CustomReadWriteLock/CustomReadWriteLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomerIssue/CustomerIssue.iml" filepath="$PROJECT_DIR$/CustomerIssue/CustomerIssue.iml" />
       <module fileurl="file://$PROJECT_DIR$/DecoratorDesign/DecoratorDesign.iml" filepath="$PROJECT_DIR$/DecoratorDesign/DecoratorDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/DoctorAppointment/DoctorAppointment.iml" filepath="$PROJECT_DIR$/DoctorAppointment/DoctorAppointment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoctorAppointmentSystem/DoctorAppointmentSystem.iml" filepath="$PROJECT_DIR$/DoctorAppointmentSystem/DoctorAppointmentSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/ElevatorDesign/ElevatorDesign.iml" filepath="$PROJECT_DIR$/ElevatorDesign/ElevatorDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileCollection/FileCollection.iml" filepath="$PROJECT_DIR$/FileCollection/FileCollection.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileSystem/FileSystem.iml" filepath="$PROJECT_DIR$/FileSystem/FileSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileSystem2/FileSystem2.iml" filepath="$PROJECT_DIR$/FileSystem2/FileSystem2.iml" />
       <module fileurl="file://$PROJECT_DIR$/FoodDelivery/FoodDelivery.iml" filepath="$PROJECT_DIR$/FoodDelivery/FoodDelivery.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IRCTC/IRCTC.iml" filepath="$PROJECT_DIR$/IRCTC/IRCTC.iml" />
       <module fileurl="file://$PROJECT_DIR$/InventoryManagement/InventoryManagement.iml" filepath="$PROJECT_DIR$/InventoryManagement/InventoryManagement.iml" />
       <module fileurl="file://$PROJECT_DIR$/JobScheduler/JobScheduler.iml" filepath="$PROJECT_DIR$/JobScheduler/JobScheduler.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LLD.iml" filepath="$PROJECT_DIR$/.idea/LLD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LRU2/LRU2.iml" filepath="$PROJECT_DIR$/LRU2/LRU2.iml" />
       <module fileurl="file://$PROJECT_DIR$/LRUCache/LRUCache.iml" filepath="$PROJECT_DIR$/LRUCache/LRUCache.iml" />
       <module fileurl="file://$PROJECT_DIR$/LoggingFramework/LoggingFramework.iml" filepath="$PROJECT_DIR$/LoggingFramework/LoggingFramework.iml" />
       <module fileurl="file://$PROJECT_DIR$/MessageQueue/MessageQueue.iml" filepath="$PROJECT_DIR$/MessageQueue/MessageQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MovieTicketBooking/MovieTicketBooking.iml" filepath="$PROJECT_DIR$/MovieTicketBooking/MovieTicketBooking.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultiThreading/MultiThreading.iml" filepath="$PROJECT_DIR$/MultiThreading/MultiThreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/MusicStreamingService/MusicStreamingService.iml" filepath="$PROJECT_DIR$/MusicStreamingService/MusicStreamingService.iml" />
       <module fileurl="file://$PROJECT_DIR$/ParkingLot/ParkingLot.iml" filepath="$PROJECT_DIR$/ParkingLot/ParkingLot.iml" />
       <module fileurl="file://$PROJECT_DIR$/PubSub/PubSub.iml" filepath="$PROJECT_DIR$/PubSub/PubSub.iml" />
       <module fileurl="file://$PROJECT_DIR$/RateLimiterDesign/RateLimiterDesign.iml" filepath="$PROJECT_DIR$/RateLimiterDesign/RateLimiterDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RideSharing/RideSharing.iml" filepath="$PROJECT_DIR$/RideSharing/RideSharing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShallowVsDeep/ShallowVsDeep.iml" filepath="$PROJECT_DIR$/ShallowVsDeep/ShallowVsDeep.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/SnakeAndLadder/SnakeAndLadder.iml" filepath="$PROJECT_DIR$/SnakeAndLadder/SnakeAndLadder.iml" />
       <module fileurl="file://$PROJECT_DIR$/SocialMedia/SocialMedia.iml" filepath="$PROJECT_DIR$/SocialMedia/SocialMedia.iml" />
       <module fileurl="file://$PROJECT_DIR$/Splitwise/Splitwise.iml" filepath="$PROJECT_DIR$/Splitwise/Splitwise.iml" />
       <module fileurl="file://$PROJECT_DIR$/StatePattern/StatePattern.iml" filepath="$PROJECT_DIR$/StatePattern/StatePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StockBrokerage/StockBrokerage.iml" filepath="$PROJECT_DIR$/StockBrokerage/StockBrokerage.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sudoku/Sudoku.iml" filepath="$PROJECT_DIR$/Sudoku/Sudoku.iml" />
       <module fileurl="file://$PROJECT_DIR$/TextEditor/TextEditor.iml" filepath="$PROJECT_DIR$/TextEditor/TextEditor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadPool/ThreadPool.iml" filepath="$PROJECT_DIR$/ThreadPool/ThreadPool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadPractice/ThreadPractice.iml" filepath="$PROJECT_DIR$/ThreadPractice/ThreadPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/TrafficSignal/TrafficSignal.iml" filepath="$PROJECT_DIR$/TrafficSignal/TrafficSignal.iml" />
       <module fileurl="file://$PROJECT_DIR$/URLShortner/URLShortner.iml" filepath="$PROJECT_DIR$/URLShortner/URLShortner.iml" />
       <module fileurl="file://$PROJECT_DIR$/VendingMachine/VendingMachine.iml" filepath="$PROJECT_DIR$/VendingMachine/VendingMachine.iml" />

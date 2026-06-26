@@ -1,3 +1,5 @@
+import java.util.PriorityQueue;
+
 public class Main {
     public static void main(String[] args) throws InterruptedException {
 //        JobScheduler jobScheduler = new SingleThreadedJobScheduler();
@@ -31,5 +33,10 @@ public class Main {
 
         Thread.sleep(5000);
         ((MultiThreadedJobScheduler) scheduler).shutdown();
+
+        PriorityQueue<Job> jobQueue = new PriorityQueue<>((a,b)->{
+            if(a.getScheduleTime()!=b.getScheduleTime())return Long.compare(a.getScheduleTime(), b.getScheduleTime());
+            return Integer.compare(b.getPriority(),a.getPriority());
+        });
     }
 }

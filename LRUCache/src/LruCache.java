@@ -10,13 +10,18 @@ public class LruCache <K,V>{
         dll = new DoublyLinkedList<>();
         nodeMap = new HashMap<>();
     }
-    public void putKey(K key, V value){
+    public void putKey(K key, V value, Long ttl){
         if(nodeMap.containsKey(key)){
             Node<K,V> node = nodeMap.get(key);
+            if(node.isExpired()){
+                dll.remove(node);
+                nodeMap.remove(node.key);
+            }
             node.value=value;
+            node.expiryTime = System.currentTimeMillis()+ttl;
             dll.moveToFront(node);
         }else{
-            Node<K,V> newNode = new Node<>(key,value);
+            Node<K,V> newNode = new Node<>(key,value,System.currentTimeMillis()+ttl);
             if(nodeMap.size()==capacity){
                 Node<K,V> removedNode = dll.removeLast();
                 if(removedNode!=null) {

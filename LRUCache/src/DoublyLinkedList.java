@@ -2,8 +2,8 @@ public class DoublyLinkedList <K,V>{
     Node<K,V> head;
     Node<K,V> tail;
     public DoublyLinkedList(){
-        head = new Node<>(null,null);
-        tail = new Node<>(null,null);
+        head = new Node<>(null,null,1L);
+        tail = new Node<>(null,null,1L);
         tail.prev=head;
         head.next=tail;
     }

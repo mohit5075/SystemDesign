@@ -22,5 +22,6 @@ public class TokenBucket {
         long elapsed = (now - lastRefillTimestamp) / 1000;
         long tokensToAdd = elapsed * (refillRateInSeconds);
         tokens = Math.min(capacity, tokens + (int) tokensToAdd);
+        if(tokens>0)lastRefillTimestamp = now;
     }
 }

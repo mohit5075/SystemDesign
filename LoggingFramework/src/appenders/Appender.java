@@ -9,5 +9,4 @@ public abstract class Appender {
         this.formatter = formatter;
     }
     public abstract void append(LogMessage logMessage);
-    public abstract void setFormatter(Formatter formatter);
 }
