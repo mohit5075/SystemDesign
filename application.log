@@ -1,0 +1,105 @@
+{
+ "timestamp": "2026-06-04T11:56:52.506907",
+ "thread": "null",
+ "level": "ERROR",
+ "message": "404 not found",
+}
+
+{
+ "timestamp": "2026-06-04T11:58:17.515818",
+ "thread": "null",
+ "level": "ERROR",
+ "message": "404 not found",
+}
+
+{
+ "timestamp": "2026-06-04T11:58:17.515876",
+ "thread": "null",
+ "level": "FATAL",
+ "message": "fatal error occurred",
+}
+
+{
+ "timestamp": "2026-06-04T12:27:04.740458",
+ "thread": "main",
+ "level": "ERROR",
+ "message": "404 not found",
+}
+
+{
+ "timestamp": "2026-06-04T12:27:04.740515",
+ "thread": "main",
+ "level": "FATAL",
+ "message": "fatal error occurred",
+}
+
+{
+ "timestamp": "2026-06-04T12:27:04.740854",
+ "thread": "demo-thread",
+ "level": "FATAL",
+ "message": "fatal error",
+}
+
+{
+ "timestamp": "2026-06-04T12:27:04.740872",
+ "thread": "demo-thread",
+ "level": "ERROR",
+ "message": "error occurred",
+}
+
+{
+ "timestamp": "2026-06-10T15:40:08.854868",
+ "thread": "main",
+ "level": "ERROR",
+ "message": "404 not found",
+}
+
+{
+ "timestamp": "2026-06-10T15:40:08.854940",
+ "thread": "main",
+ "level": "FATAL",
+ "message": "fatal error occurred",
+}
+
+{
+ "timestamp": "2026-06-10T15:40:08.855447",
+ "thread": "demo-thread",
+ "level": "FATAL",
+ "message": "fatal error",
+}
+
+{
+ "timestamp": "2026-06-10T15:40:08.855473",
+ "thread": "demo-thread",
+ "level": "ERROR",
+ "message": "error occurred",
+}
+
+{
+ "timestamp": "2026-06-10T15:40:50.497548",
+ "thread": "main",
+ "level": "ERROR",
+ "message": "404 not found",
+}
+
+{
+ "timestamp": "2026-06-10T15:40:50.497617",
+ "thread": "main",
+ "level": "FATAL",
+ "message": "fatal error occurred",
+}
+
+{
+ "timestamp": "2026-06-10T15:40:50.498121",
+ "thread": "demo-thread",
+ "level": "FATAL",
+ "message": "fatal error",
+}
+
+{
+ "timestamp": "2026-06-10T15:40:50.498140",
+ "thread": "demo-thread",
+ "level": "ERROR",
+ "message": "error occurred",
+}
+
